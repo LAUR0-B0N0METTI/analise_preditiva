@@ -1,4 +1,4 @@
-# Análise Preditiva de Vendas - README
+# Análise Preditiva de Vendas
 
 Este repositório contém um algoritmo para análise preditiva de vendas, utilizando técnicas de ciência de dados. Esse algoritmo é complementar ao programa "cria_tabela.py", responsável por gerar um conjunto de dados sintético para fins de estudo.
 
